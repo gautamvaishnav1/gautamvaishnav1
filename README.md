@@ -94,7 +94,7 @@ Frontend
 - React, Next.js, React Flow, Tailwind / CSS-in-JS, client-side virtualization libraries
 
 Backend
-- Node.js, Express, GraphQL (when required), REST APIs
+- Node.js, Express,REST APIs
 
 Databases & Cache
 - MongoDB (primary), Redis (caching, sessions, distributed locks)
@@ -115,11 +115,4 @@ Observability & Testing
   - Temporary demo credentials or admin view where appropriate.
 - Focus areas emphasized in these projects: idempotency, concurrency control, caching strategy, and operational simplicity.
 
----
 
-## 📬 Contact & Next Steps
-If you'd like:
-- This README committed into the repo — tell me and I’ll create a branch and open a PR.
-- Architecture diagrams, API docs, or demo credentials for private projects — specify which project and I'll share secure access or a walkthrough.
-
-Thanks for stopping by — I design for speed, scale, and clarity. Let's build something reliable and fast.
