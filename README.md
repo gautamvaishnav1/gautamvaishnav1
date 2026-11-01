@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D1FF&center=true&vCenter=true&width=700&lines=Full-Stack+MERN+Developer;React.js+%7C+Node.js+%7C+Express.js;MongoDB+%7C+Redis+%7C+REST+APIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=7CFFB2&center=true&vCenter=true&width=700&lines=Full-Stack+MERN+Developer;React.js+%7C+Node.js+%7C+Express.js;MongoDB+%7C+Redis+%7C+REST+APIs" alt="Typing SVG" />
 
   <p>
     <a href="https://github.com/gautamvaishnav1"><img src="https://img.shields.io/badge/GitHub-gautamvaishnav1-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
@@ -10,81 +10,73 @@
     <a href="mailto:gautamvaishnav0305@gmail.com"><img src="https://img.shields.io/badge/Email-gautamvaishnav0305%40gmail.com-EA4335?style=for-the-badge&logo=gmail" alt="Email" /></a>
   </p>
 
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-111827?style=for-the-badge&color=00ffd5&labelColor=0b0f14" alt="Open to work" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-111827?style=for-the-badge&color=00FFD5&labelColor=0B0F14" alt="Open to work" />
 
 </div>
 
 ## About Me
 
-I’m a MERN Stack Developer focused on building fast, scalable, and user-friendly web applications. I enjoy turning ideas into clean, production-ready digital experiences by combining modern frontend architecture with reliable backend systems.
+MERN Stack Developer focused on building scalable, high-performance web applications with clean architecture and strong user experience. I enjoy turning product ideas into real-world solutions using React.js, Node.js, Express.js, MongoDB, and Redis.
 
-My work spans React.js, Node.js, Express.js, MongoDB, Redis, and RESTful API development, with a strong emphasis on performance, maintainability, and product quality.
+I work across the full stack, from responsive frontend interfaces to secure backend APIs and efficient database design, with an emphasis on maintainability, speed, and production-ready quality.
 
 ---
 
-## Core Skills
+## Tech Stack
 
 ### Frontend
-- React.js
-- Next.js
-- JavaScript (ES6+)
-- TypeScript
-- HTML5 / CSS3
-- Tailwind CSS
-- Responsive UI design
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend
-- Node.js
-- Express.js
-- REST APIs
-- JWT Authentication
-- Middleware & Routing
-- Modular backend architecture
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-FF6B6B?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-Auth-000000?style=for-the-badge&logo=jwt&logoColor=white)
 
-### Database & Data Handling
-- MongoDB
-- Redis
-- Data modeling
-- Indexing
-- Caching strategies
-
-### Tools & Deployment
-- Git & GitHub
-- Postman
-- Docker
-- Vercel
-- Netlify
-- CI/CD workflows
+### Database & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
 ## Featured Projects
 
 ### Savero
-A scalable e-commerce platform built with Node.js, Express, MongoDB, and Redis for secure checkout, optimized cart flow, and reliable product management.
+A scalable e-commerce platform built for secure checkout, optimized cart flow, and reliable product management.
 
-- Implemented inventory and order management workflows
-- Built secure JWT-based authentication and role-aware access control
-- Improved performance with Redis caching and optimized database queries
-- Designed clean product, cart, and order logic for a smooth user experience
+- Built inventory and order management workflows
+- Implemented JWT authentication and role-based access control
+- Improved performance with Redis caching and query optimization
+- Designed product, cart, and checkout logic for a smoother user experience
 - Delivered a deployment-ready backend with robust handling
 
 Live Demo: https://savero-next.vercel.app
 
 ### Code City
-A full-stack MERN application centered around learning, community engagement, and digital content access.
+A full-stack MERN application focused on learning, community engagement, and digital resource access.
 
-- Designed responsive interfaces using React and Tailwind CSS
-- Built backend APIs with Node.js and Express for CRUD operations
-- Integrated MongoDB and Redis for efficient data handling and caching
-- Created structured and reusable application architecture
-- Improved maintainability and user experience across features
+- Designed responsive interfaces with React and Tailwind CSS
+- Built efficient CRUD APIs with Node.js and Express
+- Integrated MongoDB and Redis for data storage and caching
+- Created modular architecture for maintainable feature growth
+- Improved user experience across browsing and product workflows
 
 ### World Atlas
-A React-based interactive visualization platform for exploring regional and global data insights.
+A React-based interactive platform for visualizing regional and global data insights.
 
-- Built a responsive dashboard with map-driven visuals
-- Focused on clean design, accessibility, and performance
+- Built a responsive dashboard with data-driven map visuals
+- Focused on performance, clarity, and clean UI design
 - Deployed the project for public access with a smooth browsing experience
 
 Live Demo: https://gorgeous-axolotl-b09c4a.netlify.app
@@ -96,18 +88,17 @@ Live Demo: https://gorgeous-axolotl-b09c4a.netlify.app
 ### Bachelor of Computer Applications (BCA)
 Maharaja College, Ajmer
 
-- Software engineering and application design
-- Database systems and web development fundamentals
-- Practical learning through project-based work and modern technologies
+- Foundation in software engineering, database systems, and web development
+- Practical learning through project-based execution and modern technology use
 
 ---
 
-## Highlights
+## Why Work With Me
 
-- MERN stack specialist with a focus on scalable web solutions
-- Strong understanding of frontend and backend integration
-- Comfortable working with APIs, databases, caching, and deployment workflows
-- Interested in building clean, high-performance, production-ready applications
+- Full-stack MERN developer with a strong focus on product quality
+- Comfortable building frontend experiences and backend systems together
+- Strong understanding of APIs, database design, caching, and deployment workflows
+- Interested in building scalable, efficient, and production-ready applications
 
 ---
 
@@ -119,6 +110,6 @@ Maharaja College, Ajmer
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=gautamvaishnav1&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gautamvaishnav1&show_icons=true&theme=tokyonight&hide_border=true&title_color=7CFFB2&icon_color=7CFFB2&text_color=EAEAEA" alt="GitHub Stats" />
 
 </div>
