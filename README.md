@@ -81,7 +81,7 @@ Live Demo: https://gorgeous-axolotl-b09c4a.netlify.app
 ## Education
 
 ### Bachelor of Computer Applications (BCA)
-Maharaja College, Ajmer
+Maharaja College, Jaipur
 
 - Software engineering, web development, and database systems
 - Practical exposure through modern, project-based learning
