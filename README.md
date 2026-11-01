@@ -1,91 +1,78 @@
-# Gautam Vaishnav — MERN Stack Developer
+# Gautam Vaishnav
+
 ![status](https://img.shields.io/badge/Status-Open%20to%20Work-111827?style=for-the-badge&color=00ffd5&labelColor=0b0f14)
 
-Hi — I’m Gautam Vaishnav, a MERN Stack Developer with hands-on experience building responsive full-stack web applications using React.js, Node.js, Express.js, MongoDB, and Redis. I focus on delivering scalable, production-ready digital products with clean architecture, strong API design, and excellent user experience.
+## MERN Stack Developer
 
 - GitHub: [gautamvaishnav1](https://github.com/gautamvaishnav1)
 - LinkedIn: [gautam-vaishnav](https://www.linkedin.com/in/gautam-vaishnav)
-- Email: gautamvaishnav03@gmail.com
-- Phone: +91-8741923686
+- Email: gautamvaishnav0305@gmail.com
 
 ---
 
 ## Professional Summary
 
-MERN Stack Developer with hands-on experience building responsive full-stack web applications using React.js, Node.js, Express.js, MongoDB, and Redis. Proficient in developing RESTful APIs, implementing JWT authentication, integrating third-party services, and building scalable web applications with a strong focus on performance, maintainability, and user experience.
+MERN Stack Developer with hands-on experience building responsive, scalable, and user-focused web applications using React.js, Node.js, Express.js, MongoDB, and Redis. Skilled in developing RESTful APIs, implementing secure authentication, and optimizing application performance for production-ready experiences.
 
 ---
 
 ## Technical Skills
 
 ### Frontend
-- HTML5, CSS3, Tailwind CSS, JavaScript (ES6+), TypeScript
-- React.js, Next.js, Responsive UI design
-- Component-driven architecture and reusable UI patterns
+- HTML5, CSS3, JavaScript (ES6+), TypeScript
+- React.js, Next.js, Tailwind CSS
+- Responsive UI design and component-driven architecture
 
 ### Backend
-- Node.js, Express.js, RESTful APIs
+- Node.js, Express.js, REST APIs
 - JWT authentication and authorization
-- Middleware, routing, and modular backend architecture
+- Middleware, routing, and modular backend design
 
 ### Database & Caching
-- MongoDB, Redis, data modeling, indexing, and caching strategies
-- Session management and efficient data retrieval
+- MongoDB, Redis
+- Data modeling, indexing, and caching strategies
+- Efficient database-driven application design
 
 ### DevOps & Tools
-- Docker, Git, GitHub, Postman
-- CI/CD pipelines and deployment workflows
-- Vercel, Netlify, and cloud deployment basics
+- Git, GitHub, Postman, Docker
+- Vercel, Netlify, and deployment workflows
+- CI/CD basics and project delivery workflows
 
 ### Additional
 - Third-party API integration
-- Performance optimization and code refactoring
-- Scalable system thinking and product-focused development
-
----
-
-## Experience
-
-### MERN Stack Developer Intern
-ELEVATE CXM Ajmer • April 2026 - July 2026
-
-- Implemented authentication and authorization features using JWT and session-based flows.
-- Developed responsive user interfaces and reusable React components for modern web applications.
-- Integrated frontend with Node.js and Express APIs for seamless data exchange.
-- Built reusable backend components and optimized application performance.
-- Collaborated with team members to deliver scalable features and improve user experience.
-- Followed a feature-based architecture and maintained clean, organized, and testable code.
+- Performance optimization and refactoring
+- Scalable application thinking and product-focused development
 
 ---
 
 ## Projects
 
 ### Savero
-A scalable e-commerce platform built with Node.js, Express, MongoDB, and Redis focused on secure checkout, optimized cart flow, and reliable product management.
+A scalable e-commerce platform built with Node.js, Express, MongoDB, and Redis, designed for secure checkout, optimized cart flow, and reliable product management.
 
-- Implemented inventory management and order processing workflows.
-- Built a secure e-commerce backend with JWT auth, payment integration, and role-aware access control.
-- Improved API performance using Redis caching and optimized database queries.
-- Designed product, cart, and order logic for smooth user experience.
-- Managed deployment-ready backend services with robust data handling.
+- Built inventory management and order processing workflows
+- Implemented secure JWT-based authentication and role-aware access control
+- Improved API efficiency with Redis caching and optimized queries
+- Designed product, cart, and order logic for a smoother user experience
+- Delivered a deployment-ready backend with robust data handling
 
 Live Demo: https://savero-next.vercel.app
 
 ### Code City
-A full-stack MERN application designed for learning, community engagement, and digital resource access.
+A full-stack MERN application focused on learning, community engagement, and digital resource access.
 
-- Designed a dynamic and responsive user interface using React and Tailwind CSS.
-- Built the backend with Node.js and Express for efficient CRUD workflows.
-- Integrated MongoDB and Redis for content storage, caching, and improved performance.
-- Created structured APIs for product and user-related operations.
-- Implemented clean modular architecture and reusable components.
+- Designed a clean, responsive user interface using React and Tailwind CSS
+- Built backend APIs with Node.js and Express for CRUD operations
+- Integrated MongoDB and Redis for data storage, caching, and better performance
+- Developed structured, modular application architecture for scalable feature growth
+- Improved usability and maintainability across user-centered workflows
 
 ### World Atlas
-A React-based interactive data visualization platform for exploring global datasets and regional insights.
+A React-based interactive data visualization platform for exploring global data and regional insights.
 
-- Built a responsive dashboard with map-driven data visualization.
-- Focused on clean design, lightweight performance, and accessibility.
-- Deployed the project for public access with a smooth browsing experience.
+- Built a responsive dashboard with map-based data visualizations
+- Focused on clean design, performance, and an intuitive user experience
+- Deployed the project for public access with smooth usability
 
 Live Demo: https://gorgeous-axolotl-b09c4a.netlify.app
 
@@ -96,17 +83,17 @@ Live Demo: https://gorgeous-axolotl-b09c4a.netlify.app
 ### Bachelor of Computer Applications (BCA)
 Maharaja College, Ajmer
 
-- Focused on software engineering, database systems, web development, and application design.
-- Gaining practical experience through project-based learning and modern web technologies.
+- Studied software engineering, database systems, web development, and application design
+- Built practical skills through project-based learning and modern web technologies
 
 ---
 
 ## Highlights
 
-- Strong focus on MERN stack development and scalable web architecture.
-- Experience in building full-stack features from frontend UX to backend API logic.
-- Comfortable working with databases, caching systems, deployment tools, and modern JavaScript ecosystems.
-- Interested in system design, API performance, observability, and production-ready engineering.
+- Strong focus on MERN stack development and scalable web architecture
+- Experience building end-to-end features from frontend UX to backend API logic
+- Comfortable working with modern JavaScript ecosystems, databases, caching, and deployment tools
+- Interested in system design, API performance, and production-ready engineering
 
 ---
 
@@ -114,5 +101,4 @@ Maharaja College, Ajmer
 
 - GitHub: [github.com/gautamvaishnav1](https://github.com/gautamvaishnav1)
 - LinkedIn: [linkedin.com/in/gautam-vaishnav](https://www.linkedin.com/in/gautam-vaishnav)
-- Email: gautamvaishnav03@gmail.com
-- Phone: +91-8741923686
+- Email: gautamvaishnav0305@gmail.com
