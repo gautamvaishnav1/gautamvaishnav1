@@ -1,118 +1,118 @@
 # Gautam Vaishnav — MERN Stack Developer
-![status](https://img.shields.io/badge/Status-Active%20Builder-111827?style=for-the-badge&color=00ffd5&labelColor=0b0f14)
+![status](https://img.shields.io/badge/Status-Open%20to%20Work-111827?style=for-the-badge&color=00ffd5&labelColor=0b0f14)
 
-Hi — I'm Gautam Vaishnav. I design and ship high-scale web systems with a MERN-first mindset: pragmatic, observable, and performance-driven. Currently a BCA student at Maharaja College, I build end-to-end products, compete in hackathons, and focus on system design and performance optimization.
+Hi — I’m Gautam Vaishnav, a MERN Stack Developer with hands-on experience building responsive full-stack web applications using React.js, Node.js, Express.js, MongoDB, and Redis. I focus on delivering scalable, production-ready digital products with clean architecture, strong API design, and excellent user experience.
 
----
-
-## 🚀 Quick Links
 - GitHub: [gautamvaishnav1](https://github.com/gautamvaishnav1)
-- Savero Studio (live demo): https://savero-next.vercel.app
-- World Atlas (live): https://gorgeous-axolotl-b09c4a.netlify.app
+- LinkedIn: [gautam-vaishnav](https://www.linkedin.com/in/gautam-vaishnav)
+- Email: gautamvaishnav03@gmail.com
+- Phone: +91-8741923686
 
 ---
 
-## 🔦 About Me
-- BCA Student — Maharaja College.
-- Active builder: full-stack product design, architecture, and deployment.
-- Passionate about system design, caching strategies, high-throughput APIs, and UX-focused performance.
-- Prefer: clear API contracts, observability-first deployments, and production-first testing.
+## Professional Summary
+
+MERN Stack Developer with hands-on experience building responsive full-stack web applications using React.js, Node.js, Express.js, MongoDB, and Redis. Proficient in developing RESTful APIs, implementing JWT authentication, integrating third-party services, and building scalable web applications with a strong focus on performance, maintainability, and user experience.
 
 ---
 
-## ✨ Featured Projects
+## Technical Skills
 
-### Savero Studio — [Private / Proprietary]
-Live: https://savero-next.vercel.app  
-Tech: MERN • TypeScript • Redis • Docker  
-![MERN](https://img.shields.io/badge/MERN-Stack-0dbbff?style=flat-square&labelColor=0b0f14)&nbsp;![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&labelColor=0b0f14)&nbsp;![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&labelColor=0b0f14)&nbsp;![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&labelColor=0b0f14)
+### Frontend
+- HTML5, CSS3, Tailwind CSS, JavaScript (ES6+), TypeScript
+- React.js, Next.js, Responsive UI design
+- Component-driven architecture and reusable UI patterns
 
-One-liner
-- A high-scale e-commerce platform optimized for zero-inventory same‑day dispatch and resilient, multi‑tier cart management.
+### Backend
+- Node.js, Express.js, RESTful APIs
+- JWT authentication and authorization
+- Middleware, routing, and modular backend architecture
 
-System architecture (concise)
-- Frontend: Next.js + TypeScript with selective SSR and edge caching for catalog pages.
-- API: Node.js + Express acting as a modular façade routing to service components.
-- Data plane: MongoDB for canonical product/order data; Redis for multi‑tier cart/session store, distributed locks, and caching.
-- Operations: Dockerized services, CI/CD pipelines, Vercel for frontend hosting, and centralized observability for logs & metrics.
-- Integrations: Payment gateway with idempotency keys and courier orchestration for same‑day dispatch.
+### Database & Caching
+- MongoDB, Redis, data modeling, indexing, and caching strategies
+- Session management and efficient data retrieval
 
-Key technical challenges solved
-- Zero‑inventory same‑day dispatch: dynamic SKU-to-partner mapping with optimistic reservation via Redis locks and reconciliation to maintain correctness under concurrency.
-- Multi‑tier cart: hybrid Redis + persistent reconciliation supporting device sync, TTL-based stale-cart reclaim, and deterministic cart-merge conflict resolution.
-- Checkout throughput: idempotent order creation and batched persistence to reduce write amplification while preserving application-level consistency.
+### DevOps & Tools
+- Docker, Git, GitHub, Postman
+- CI/CD pipelines and deployment workflows
+- Vercel, Netlify, and cloud deployment basics
 
-Access & demos
-- Live demo available at the link above. Source is proprietary; architecture diagrams, API contracts, and admin/demo access can be provided on request.
-
----
-
-### Reel Watching Platform — [Private / Proprietary]
-Tech: MERN • Redis caching • Docker • Cursor-based pagination (infinite scroll)  
- ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&labelColor=0b0f14)&nbsp;![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&labelColor=0b0f14)&nbsp;![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&labelColor=0b0f14)
-
-One-liner
-- A high-performance short-video / reel consumption platform engineered for smooth infinite scroll and low-latency playback.
-
-System architecture (concise)
-- Frontend: React with client-side virtualization, prefetching, and optimized rendering for video-heavy feeds.
-- Backend: Node.js + Express exposing cursor-based endpoints to ensure stable, duplicate-free pagination.
-- Caching & Media: Redis for feed and metadata caching; CDN-backed media hosting for video assets and adaptive streaming.
-- Data: MongoDB for content and user metadata, with lightweight event capture for playback analytics.
-
-Technical challenges solved
-- Infinite scroll consistency: opaque cursor-based pagination to avoid duplication or missing items during concurrent writes.
-- Low-latency feed: layered Redis caching with background recompute of ranking buckets and cache-stampede protections.
-- Smooth UX under churn: prefetch windows, buffering strategies, and resilient fallback behavior for varying network conditions.
-
-Access & demos
-- Repo is private. Demos, architecture notes, or walkthroughs can be shared on request.
+### Additional
+- Third-party API integration
+- Performance optimization and code refactoring
+- Scalable system thinking and product-focused development
 
 ---
 
-### World Atlas — Public
-Live: https://gorgeous-axolotl-b09c4a.netlify.app  
-Tech: React • Data visualization  
-Badges: ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&labelColor=0b0f14)&nbsp;![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&labelColor=0b0f14)
+## Experience
 
-What it is
-- A React-based global data visualizer that combines public datasets into interactive maps and drill-down dashboards.
+### MERN Stack Developer Intern
+ELEVATE CXM Ajmer • April 2026 - July 2026
 
-Highlights
-- Performant rendering with lazy-loaded GeoJSON layers and virtualization.
-- Accessible color palettes and responsive design for cross-device viewing.
-- Live demo linked above — source is available publicly.
-
----
-
-## 🛠 Tech Stack
-
-Languages
-- JavaScript (ES6+), TypeScript
-
-Frontend
-- React, Next.js, React Flow, Tailwind / CSS-in-JS, client-side virtualization libraries
-
-Backend
-- Node.js, Express,REST APIs
-
-Databases & Cache
-- MongoDB (primary), Redis (caching, sessions, distributed locks)
-
-Infrastructure & Tools
-- Docker, Vercel, Netlify, Git, GitHub Actions, CI/CD pipelines, Postman
-
-Observability & Testing
-- Centralized logging, request tracing with request IDs, health endpoints, metrics, and load-testing (k6 / locust)
+- Implemented authentication and authorization features using JWT and session-based flows.
+- Developed responsive user interfaces and reusable React components for modern web applications.
+- Integrated frontend with Node.js and Express APIs for seamless data exchange.
+- Built reusable backend components and optimized application performance.
+- Collaborated with team members to deliver scalable features and improve user experience.
+- Followed a feature-based architecture and maintained clean, organized, and testable code.
 
 ---
 
-## 🔐 Private / Proprietary Repositories — Notes
-- Private projects (explicitly marked above) are not public to protect IP and integrations.
-- For evaluation or collaboration, I can provide:
-  - Live demo access or recorded walkthroughs.
-  - Architecture diagrams and API contract documentation.
-  - Temporary demo credentials or admin view where appropriate.
-- Focus areas emphasized in these projects: idempotency, concurrency control, caching strategy, and operational simplicity.
+## Projects
 
+### Savero
+A scalable e-commerce platform built with Node.js, Express, MongoDB, and Redis focused on secure checkout, optimized cart flow, and reliable product management.
 
+- Implemented inventory management and order processing workflows.
+- Built a secure e-commerce backend with JWT auth, payment integration, and role-aware access control.
+- Improved API performance using Redis caching and optimized database queries.
+- Designed product, cart, and order logic for smooth user experience.
+- Managed deployment-ready backend services with robust data handling.
+
+Live Demo: https://savero-next.vercel.app
+
+### Code City
+A full-stack MERN application designed for learning, community engagement, and digital resource access.
+
+- Designed a dynamic and responsive user interface using React and Tailwind CSS.
+- Built the backend with Node.js and Express for efficient CRUD workflows.
+- Integrated MongoDB and Redis for content storage, caching, and improved performance.
+- Created structured APIs for product and user-related operations.
+- Implemented clean modular architecture and reusable components.
+
+### World Atlas
+A React-based interactive data visualization platform for exploring global datasets and regional insights.
+
+- Built a responsive dashboard with map-driven data visualization.
+- Focused on clean design, lightweight performance, and accessibility.
+- Deployed the project for public access with a smooth browsing experience.
+
+Live Demo: https://gorgeous-axolotl-b09c4a.netlify.app
+
+---
+
+## Education
+
+### Bachelor of Computer Applications (BCA)
+Maharaja College, Ajmer
+
+- Focused on software engineering, database systems, web development, and application design.
+- Gaining practical experience through project-based learning and modern web technologies.
+
+---
+
+## Highlights
+
+- Strong focus on MERN stack development and scalable web architecture.
+- Experience in building full-stack features from frontend UX to backend API logic.
+- Comfortable working with databases, caching systems, deployment tools, and modern JavaScript ecosystems.
+- Interested in system design, API performance, observability, and production-ready engineering.
+
+---
+
+## Contact
+
+- GitHub: [github.com/gautamvaishnav1](https://github.com/gautamvaishnav1)
+- LinkedIn: [linkedin.com/in/gautam-vaishnav](https://www.linkedin.com/in/gautam-vaishnav)
+- Email: gautamvaishnav03@gmail.com
+- Phone: +91-8741923686
